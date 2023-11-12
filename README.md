@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bromademe
-- 👀 I’m interested in miners
-- 🌱 I’m currently learning death 
-- 💞️ I’m looking to collaborate on suislide
-- 📫 How to reach me nowhere
+- 👋 Hi, I’m a slave
+- 👀 I’m interested in coding
+- 🌱 I’m currently procrastinating
+- 💞️ I’m looking to finish my game
+- 📫 Can't reach me :skull:
 
 <!---
 bromademe/bromademe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
